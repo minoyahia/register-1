@@ -1,0 +1,19 @@
+{
+    "$schema": "../schemas/domain.schema.json",
+  
+    "description": "a website for my bio",
+  
+    "domain": "is-cool.dev",
+    "subdomain": "moh",
+  
+    "owner": {
+      "repo": "https://github.com/minoyahia/register-1",
+      "email": "notminoyahiahf@gmail.com"
+    },
+  
+    "record": {
+      "CNAME": "personal-website-cyj.pages.dev",
+    },
+  
+    "proxy": false
+  }
